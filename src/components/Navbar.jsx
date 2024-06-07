@@ -12,19 +12,19 @@ const Navbar = () => {
   return (
     <div className='bg-[#151218] text-white flex p-4 justify-between'> 
 
-    <div className='text-3xl flex gap-3 pl-5'><img src={brand} className='h-8 w-8'></img> Clever Books</div>
+    <div className='text-3xl flex gap-3 pl-5'><img src={brand} className='h-8 w-8'></img> CleverBooks</div>
 
 
     <div className='hidden md:flex gap-10 mr-4 '>
     <div className='flex gap-7'>
     <button>Product</button>
-    <button>Product</button>
-    <button>Product</button>
-    <button>Product</button>
+    <button>Pricing</button>
+    <button>Industry</button>
+    <button>About</button>
     </div>
 
     <button className='text-[#E1869E] hover:border-[#E1869E]'>Login</button>
-    <button className='bg-gradient-to-r from-purple-500 to-pink-500 text-white px-4 py-2 rounded-2xl text-md'>SignUp</button>
+    <button className='bg-gradient-to-r from-purple-500 to-pink-500 text-white px-4 py-2 rounded-2xl text-md'>Talk to us</button>
 
     
     </div>
@@ -45,16 +45,16 @@ const Navbar = () => {
 
           <ul className="list-none flex justify-end items-start flex-1 flex-col">
           <li className={`mb-4`}>
-              <button>My Profile</button>
+              <button>Product</button>
             </li>
             <li className={`mb-4`}>
-              <button>My Profile</button>
+              <button>Pricing</button>
             </li>
             <li className={`mb-4`}>
-              <button>My Profile</button>
+              <button>Industry</button>
             </li>
             <li className={`mb-4`}>
-              <button>My Profile</button>
+              <button>About</button>
             </li>
             
           </ul>

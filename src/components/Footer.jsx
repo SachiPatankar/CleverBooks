@@ -12,21 +12,21 @@ const Footer = () => {
             </div>
 
             <div>
-            Crest is an AI-powered supply chain software that provides companies tools for demand forecasting, inventory planning and more. This helps them have the right amount of stock, optimise space and fulfil every order.
+            CleverBooks is an AI-powered supply chain software that provides companies tools for demand forecasting, inventory planning and more. This helps them have the right amount of stock, optimise space and fulfil every order.
             </div>
 
         </div>
 
         <div className='flex-col py-16 px-16 '>
-        <div className='mb-4'>Contact Crest </div>
-        <div className='mb-4'>sales@getcrest.ai</div>
+        <div className='mb-4'>Contact CleverBooks </div>
+        <div className='mb-4'>sales@getcleverbooks.ai</div>
         <div>Registered Office:</div>
-        <div className='mb-4'>1507, Incubex, 11th cross road, 19th Main Road, Bengaluru, India. 560102</div>
+        <div className='mb-4'>1507, ABC, 11th cross road, 19th Main Road, XYZ, India. 123456</div>
             <div>Corporate Office:</div>
-            <div>291, All Time Space, 4th Floor,
-            15th A Cross, Sector - 6,
-            HSR Layout, Bengaluru,
-            India. 560102</div>
+            <div>291, Time Space, 4th Floor,
+            15th A Cross, Sector - 0,
+            XYZ Layout, ABC,
+            India. 123456</div>
 
             <div className="flex gap-4 mt-6">
                 <a><div class="w-embed"><svg width="20" height="17" viewBox="0 0 20 17" fill="currentColor" xmlns="http://www.w3.org/2000/svg">

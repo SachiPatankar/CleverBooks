@@ -26,31 +26,31 @@ const CounterPage = () => {
                 <div className="basis-1/3 flex-col my-7">
 
                     <div className='items-end flex justify-center'>
-                        <div> <Counter n={100} /></div>
+                        <div> <Counter n={85} /></div>
 
                         <div>%</div>
                     </div>
-                    <div className='font-bold text-3xl'>Stockouts</div>
+                    <div className='font-bold text-3xl'>Reduction in out-of-stocks</div>
 
                 </div>
                 <div className="basis-1/3 flex-col my-7">
 
 
                     <div className='items-end flex justify-center'>
-                        <div> <Counter n={100} /></div>
+                        <div> <Counter n={25} /></div>
 
-                        <div>%</div>
+                        <div>days</div>
                     </div>
-                    <div className='font-bold text-3xl'>Cash recovery cycle</div>
+                    <div className='font-bold text-3xl'>Reduction in cash recovery time</div>
                 </div>
                 <div className="basis-1/3 flex-col my-7">
 
                     <div className='items-end flex justify-center'>
-                        <div> <Counter n={100} /></div>
+                        <div> <Counter n={15} /></div>
 
                         <div>%</div>
                     </div>
-                    <div className='font-bold text-3xl'>Revenue</div>
+                    <div className='font-bold text-3xl'>Growth in revenue</div>
                 </div>
         </div>
     );

@@ -34,12 +34,12 @@ const ProblemExplainer = () => {
     {
       src: "https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326dab14ea3f0b_Purpose-built%20%26%20ever-improving%20tech.svg",
       heading: "Purpose built, and ever improving tech",
-      description: "With an intuitive interface and empathetic design, Crest requires only minimal training (or beginner-level knowledge of supply chain) to use.",
+      description: "Our demand forecasting engine has been meticulously-built, while our ML engine constantly trains on years of data and is ever-evolving.",
     },
     {
-      src: "https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d5150ea3f0a_Ease%20of use.svg",
-      heading: "Deep Domain Expertise",
-      description: "With an intuitive interface and empathetic design, Crest requires only minimal training (or beginner-level knowledge of supply chain) to use.",
+      src: "https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d486cea3f09_Focus%20on%20KPIs%20that%20matter.svg",
+      heading: "A focus on KPIs that matter",
+      description: "Our tools help you make decisions to grow your business. Everything works towards improving cash flow and product availability.",
     },
   ];
 
