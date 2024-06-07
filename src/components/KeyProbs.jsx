@@ -23,7 +23,7 @@ const KeyProbs = () => {
 
 <Card src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/63bd0cc629ab7f2d8cb0a8bd_how%20much%20to%20stock.svg"
             alt = "How much to stock"
-            heading = "How much to stockr"
+            heading = "How much to stock"
             description= "Get inventory requirements for every node, for every SKU. So you avoid out-of-stock situations, even during demand spikes."
       
       ></Card>
