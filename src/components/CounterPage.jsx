@@ -30,7 +30,8 @@ const CounterPage = () => {
 
                         <div>%</div>
                     </div>
-                    <div className='font-bold text-3xl'>Reduction in out-of-stocks</div>
+                    <div className='font-bold text-3xl'>Reduction in </div>
+                    <div className='font-bold text-3xl'>out-of-stocks </div>
 
                 </div>
                 <div className="basis-1/3 flex-col my-7">
@@ -41,7 +42,8 @@ const CounterPage = () => {
 
                         <div>days</div>
                     </div>
-                    <div className='font-bold text-3xl'>Reduction in cash recovery time</div>
+                    <div className='font-bold text-3xl'>Reduction in cash</div>
+                    <div className='font-bold text-3xl'>recovery time</div>
                 </div>
                 <div className="basis-1/3 flex-col my-7">
 
@@ -50,7 +52,8 @@ const CounterPage = () => {
 
                         <div>%</div>
                     </div>
-                    <div className='font-bold text-3xl'>Growth in revenue</div>
+                    <div className='font-bold text-3xl'>Growth in </div>
+                    <div className='font-bold text-3xl'>revenue</div>
                 </div>
         </div>
     );

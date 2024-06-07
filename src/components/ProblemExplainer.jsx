@@ -29,7 +29,7 @@ const ProblemExplainer = () => {
     {
       src: "https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d5150ea3f0a_Ease%20of%20use.svg",
       heading: "Ease of use, for everyone",
-      description: "With an intuitive interface and empathetic design, Crest requires only minimal training (or beginner-level knowledge of supply chain) to use.",
+      description: "With an intuitive interface and empathetic design, CleverBooks requires only minimal training (or beginner-level knowledge of supply chain) to use.",
     },
     {
       src: "https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326dab14ea3f0b_Purpose-built%20%26%20ever-improving%20tech.svg",

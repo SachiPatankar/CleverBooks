@@ -16,20 +16,20 @@ const Testimonial = () => {
 
   const data = [
     {
-      descr: "D2C brands face issues with supply chain management and high growth startups are not equipped to run their demand forecast manually. Crest automates all the workflows and helps brands predict high demand periods and be ready to cater to customer demands. It has a direct impact on the revenue readiness of a company and that's the value we see Crest unlocking for many companies in the future. Rahul and team have built a robust product with years of their experience distilled into the workflows.",
-      name: "Diksha Pandey",
-      position: "Co-founder, Samosa Party",
+      descr: "D2C brands face issues with supply chain management and high growth startups are not equipped to run their demand forecast manually. CleverBooks automates all the workflows and helps brands predict high demand periods and be ready to cater to customer demands. It has a direct impact on the revenue readiness of a company and that's the value we see CleverBooks unlocking for many companies in the future. Rahul and team have built a robust product with years of their experience distilled into the workflows.",
+      name: "Ahaana Pandey",
+      position: "Co-founder, Party Samosa ",
       photo: "https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/651c00235cd9c2cd10fb1976_Samosa%20Party%20Client%20Image.webp",
       he1: "upto 95%",
       p1: "Demand Fulfilment",
-      he2: "upto 95%",
-      p2: "Demand Fulfilment",
+      he2: "<3%",
+      p2: "Daily Stockout",
       prod: "https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/664ddc11c29c3652662f0739_samosa%20party%20image.webp",
     },
     {
-      descr: "As Co-founders, we had zero clue on the real time stock levels in our warehouse. It felt like a battle to manually update invoices from EE to Zoho, so that at least some data points can be tracked.While we had already implemented Crest I had no clue that they could make this API integration work for us and exactly the way we wanted it to work. Thank you team Rahul Vishwakarma & Yogesh Byahatti for identifying the problem and being so quick with the solution, kudos to the amazing team you have.",
-      name: "Kirti Goel",
-      position: "Co-founder,P-TAL",
+      descr: "As Co-founders, we had zero clue on the real time stock levels in our warehouse. It felt like a battle to manually update invoices from EE to Zoho, so that at least some data points can be tracked.While we had already implemented CleverBooks I had no clue that they could make this API integration work for us and exactly the way we wanted it to work. Thank you team Vishwakarma & Byahatti for identifying the problem and being so quick with the solution, kudos to the amazing team you have.",
+      name: "Kirti Sharma",
+      position: "Co-founder,T-PAL",
       photo: "https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/664ddd1080709540ff764308_P-Tal%20founder.jpg",
       he1: "Automated Invoice Reconciliation",
       p1: "",
