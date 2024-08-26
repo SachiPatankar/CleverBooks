@@ -70,7 +70,7 @@ const TestimonialCard = ({
     <div className="flex flex-col lg:flex-row items-center justify-center gap-8 p-4 lg:p-8 bg-white rounded-lg shadow-lg">
       <div className="lg:basis-3/5 w-full">
         <div className="flex flex-col gap-4">
-          <p className="text-base md:text-lg lg:text-xl">{descr}</p>
+          <p className="text-base md:text-lg">{descr}</p>
           <div className="flex items-center gap-4">
             <img className="h-12 w-12 md:h-16 md:w-16 rounded-full" alt="" loading="lazy" src={photo} />
             <div>
