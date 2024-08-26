@@ -22,10 +22,20 @@ const Hero = () => {
 
         </div>
       </div>
-      <div className='flex-1 flex items-center justify-center md:mt-0 p-4'>
+      {/* <div className='flex-1 flex items-center justify-center md:mt-0 p-4'> */}
         {/* <img src={HeroImage} alt="Your Image" className=' w-2/3 sm:w-2/3 md:w-1/2 lg:w-3/4 h-auto' /> */}
-        <img src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d648dea3f01_Hero%20Image.svg" loading="eager" alt="every order fulfilled" className="max-w-md lg:max-w-lg"></img>
-      </div>
+        {/* <img src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d648dea3f01_Hero%20Image.svg" loading="eager" alt="every order fulfilled" className="max-w-md lg:max-w-lg"></img> */}
+      {/* </div> */}
+
+      <div className="flex-1 flex items-center justify-center p-4 md:mt-0">
+  <img 
+    src="https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d648dea3f01_Hero%20Image.svg" 
+    loading="eager" 
+    alt="every order fulfilled" 
+    className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg h-auto"
+  />
+</div>
+
     </div>
   );
 }

@@ -42,7 +42,7 @@ const Testimonial = () => {
 
   return (
     <div>
-      <div className=''>
+      <div className='className="px-4 md:px-8 lg:px-16 py-8'>
       <TestimonialCard className="transition-opacity"
         descr={data[index].descr}
         name={data[index].name}

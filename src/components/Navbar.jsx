@@ -12,7 +12,18 @@ const Navbar = () => {
   return (
     <div className='bg-[#151218] text-white flex p-4 justify-between'> 
 
-    <div className='text-3xl flex gap-3 md:pl-5'><img src={brand} className='h-8 w-8 '></img> CleverBooks</div>
+    {/* <div className='text-3xl flex gap-3 md:pl-5'><img src={brand} className='h-8 w-8 '></img> CleverBooks</div> */}
+    <div className="flex items-center gap-3 md:pl-5">
+  <img 
+    src={brand} 
+    className="h-6 w-6 sm:h-8 sm:w-8 md:h-10 md:w-10 lg:h-12 lg:w-12"
+    alt="Brand Logo"
+  />
+  <span className="text-xl sm:text-2xl md:text-3xl lg:text-4xl">
+    CleverBooks
+  </span>
+</div>
+
 
 
     <div className='hidden md:flex gap-10 mr-4 '>
@@ -23,10 +34,16 @@ const Navbar = () => {
     <button>About</button>
     </div>
 
-    <button className='text-[#E1869E] hover:border-[#E1869E]'>Login</button>
-    <button className='bg-gradient-to-r from-purple-500 to-pink-500 text-white px-4 py-2 rounded-2xl text-md'>Talk to us</button>
+    {/* <button className='text-[#E1869E] hover:border-[#E1869E]'>Login</button>
+    <button className='bg-gradient-to-r from-purple-500 to-pink-500 text-white px-4 py-2 rounded-2xl text-md'>Talk to us</button> */}
 
-    
+<button className="text-[#E1869E] hover:border-[#E1869E] text-xs sm:text-base md:text-lg">
+  Login
+</button>
+<button className="bg-gradient-to-r from-purple-500 to-pink-500 text-white px-3 py-1.5 sm:px-4 sm:py-2 rounded-xl sm:rounded-2xl text-xs sm:text-md md:text-lg ">
+  Talk to us
+</button>
+
     </div>
 
     
